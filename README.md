@@ -1,1 +1,1 @@
-# matrix completed
+# all funtions with matrix in java
